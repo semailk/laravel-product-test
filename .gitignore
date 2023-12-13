@@ -1,2 +1,2 @@
 .idea
-docker/postgres/db_data
+docker/postgres/db_data/*
